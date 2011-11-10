@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: quantum-common
+Version: 0.1
+Summary: Common functionalities for Quantum
+Home-page: https://github.com/openstack/quantum
+Author: Netstack
+Author-email: UNKNOWN
+License: Apache License 2.0
+Description: Common functionalities for Quantum
+Platform: UNKNOWN

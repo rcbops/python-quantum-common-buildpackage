@@ -1,3 +1,9 @@
+python-quantum-common (0.1-rcb2) maverick; urgency=low
+
+  * Convert package to debhelper
+
+ -- RCB Builder <rcb-deploy@lists.rackspace.com>  Fri, 11 Nov 2011 10:53:19 -0600
+
 python-quantum-common (0.1-rcb1) maverick; urgency=low
 
   * Initial import
